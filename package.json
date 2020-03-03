@@ -6,7 +6,7 @@
   "scripts": {
     "test": "jest"
   },
-  "author": "",
+  "author": "@TheLukeRussell",
   "license": "MIT",
   "dependencies": {
     "jest": "^24.9.0"
